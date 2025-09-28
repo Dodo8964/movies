@@ -1,8 +1,10 @@
 [core]
-    remote = dagshub
+    remote = origin
 ['remote "myremote"']
     url = s3://mybucket/myfolder
 ['remote "dagshub"']
     url = s3://movieHitOrMiss
     endpointurl = https://dagshub.com/api/v1/repo-buckets/s3/harshith1290
     region = us-east-1
+['remote "origin"']
+    url = https://dagshub.com/harshith1290/movieHitOrMiss.dvc
