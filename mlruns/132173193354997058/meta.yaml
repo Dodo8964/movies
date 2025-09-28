@@ -1,0 +1,6 @@
+artifact_location: file:///D:/Harshith/projects/MLOPS/mlruns/132173193354997058
+creation_time: 1758732537024
+experiment_id: '132173193354997058'
+last_update_time: 1758732537024
+lifecycle_stage: active
+name: movie-hit-classifier

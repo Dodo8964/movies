@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Harshith/projects/MLOPS/mlruns/132173193354997058/12e0a883f6304e97b73a66d8e559f3a8/artifacts
+end_time: 1759062714639
+entry_point_name: ''
+experiment_id: '132173193354997058'
+lifecycle_stage: active
+run_id: 12e0a883f6304e97b73a66d8e559f3a8
+run_name: fortunate-lark-67
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759062709075
+status: 3
+tags: []
+user_id: Harshith Maddikayala

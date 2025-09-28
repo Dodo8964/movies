@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Harshith/projects/MLOPS/mlruns/132173193354997058/b5c8cb67dcb7415b948db656460ec05c/artifacts
+end_time: 1758732544397
+entry_point_name: ''
+experiment_id: '132173193354997058'
+lifecycle_stage: active
+run_id: b5c8cb67dcb7415b948db656460ec05c
+run_name: suave-sponge-706
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1758732537593
+status: 3
+tags: []
+user_id: Harshith Maddikayala

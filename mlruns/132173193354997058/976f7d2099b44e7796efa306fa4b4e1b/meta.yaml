@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Harshith/projects/MLOPS/mlruns/132173193354997058/976f7d2099b44e7796efa306fa4b4e1b/artifacts
+end_time: 1759062871138
+entry_point_name: ''
+experiment_id: '132173193354997058'
+lifecycle_stage: active
+run_id: 976f7d2099b44e7796efa306fa4b4e1b
+run_name: ambitious-boar-114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759062866037
+status: 3
+tags: []
+user_id: Harshith Maddikayala

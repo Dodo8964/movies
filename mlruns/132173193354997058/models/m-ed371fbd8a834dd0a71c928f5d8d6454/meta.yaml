@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Harshith/projects/MLOPS/mlruns/132173193354997058/models/m-ed371fbd8a834dd0a71c928f5d8d6454/artifacts
+creation_timestamp: 1759062657680
+experiment_id: '132173193354997058'
+last_updated_timestamp: 1759062664751
+model_id: m-ed371fbd8a834dd0a71c928f5d8d6454
+model_type: null
+name: sklearn-model
+source_run_id: 75cd2d19049c438c9f18432eecb006d0
+status: 2
+status_message: null

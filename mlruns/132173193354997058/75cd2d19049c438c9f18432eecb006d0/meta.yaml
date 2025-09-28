@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Harshith/projects/MLOPS/mlruns/132173193354997058/75cd2d19049c438c9f18432eecb006d0/artifacts
+end_time: 1759062664755
+entry_point_name: ''
+experiment_id: '132173193354997058'
+lifecycle_stage: active
+run_id: 75cd2d19049c438c9f18432eecb006d0
+run_name: agreeable-hound-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759062657406
+status: 3
+tags: []
+user_id: Harshith Maddikayala
